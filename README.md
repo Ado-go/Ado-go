@@ -1,4 +1,4 @@
-# Hi, I'm Ado
+![Animated Header](./header.svg)
 
 I focus on **frontend development** and creating **interactive games and applications**. I enjoy experimenting with **JavaScript/Typescript and Python**, and my projects are all about **fun, creativity, and practical use**.
 
