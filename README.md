@@ -20,5 +20,3 @@ I focus on **frontend development** and creating **interactive games and applica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
-## 📫 Contact
-If you're interested in collaborating or just want to talk code, feel free to reach out via GitHub.
